@@ -1,10 +1,9 @@
-# SpendWise
 # SpendWise - Your Comprehensive Solution for Effortless Expense Tracking and Financial Management
 The MERN SpendWise is a web application that allows users to manage their financial transactions and track expenses efficiently. Built on the popular MERN (MongoDB, Express.js, React.js, Node.js) technology stack, the project offers a user-friendly interface with login and register functionality, as well as secure API endpoints for managing user data.
 
 Features:
 
-User Authentication: Users can create an account or log in using their credentials. The authentication process is secured with encryption techniques, ensuring the privacy and security of user data.
+* User Authentication: Users can create an account or log in using their credentials. The authentication process is secured with encryption techniques, ensuring the privacy and security of user data.
 
 Expense Tracking: Once logged in, users can add, edit, and delete transactions. Each transaction record includes details such as the date, description, amount, and category (e.g., food, transportation, entertainment).
 
